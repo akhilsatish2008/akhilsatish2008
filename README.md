@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilsatish2008" alt="akhilsatish2008" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/codebenderrrrr" target="blank"><img src="https://img.shields.io/twitter/follow/@codebenderrrrr?logo=twitter&style=for-the-badge" alt="@codebenderrrrr" /></a> </p>
+<p align="left "> <a href="https://twitter.com/codebenderrrrr" target="blank"><img src="https://img.shields.io/twitter/follow/@codebenderrrrr?logo=twitter&style=for-the-badge" alt="@codebenderrrrr" /></a> </p>
 
 - 🌱 I’m currently learning **Svelte kit**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akhilsatish2008@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codebender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codebender" height="30" width="40" /></a>
 <a href="https://twitter.com/@codebenderrrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codebenderrrrr" height="30" width="40" /></a>
